@@ -1,4 +1,4 @@
-# JavaProject
+# Java Project
 * Set of Java Projects I have done *
 
 - Asg 1: Song Info 
